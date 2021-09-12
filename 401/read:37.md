@@ -42,4 +42,4 @@
 - Performance: it allows you to more easily get performance for granted.
 - One of the advantages is react fast refresh.
 - You can rename the file and youll get it because it comes with nextJS. just Like iamges, CSS, Typescript.
-- NextJS can be deployed to AWS, verselle.
+- NextJS can be deployed to AWS, Vercel.
